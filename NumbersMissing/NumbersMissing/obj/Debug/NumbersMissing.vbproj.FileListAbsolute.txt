@@ -1,0 +1,11 @@
+C:\Users\automatizacion\Desktop\NumbersMissing\NumbersMissing\NumbersMissing\bin\Debug\NumbersMissing.exe.config
+C:\Users\automatizacion\Desktop\NumbersMissing\NumbersMissing\NumbersMissing\bin\Debug\NumbersMissing.exe
+C:\Users\automatizacion\Desktop\NumbersMissing\NumbersMissing\NumbersMissing\bin\Debug\NumbersMissing.pdb
+C:\Users\automatizacion\Desktop\NumbersMissing\NumbersMissing\NumbersMissing\bin\Debug\NumbersMissing.xml
+C:\Users\automatizacion\Desktop\NumbersMissing\NumbersMissing\NumbersMissing\obj\Debug\NumbersMissing.vbprojResolveAssemblyReference.cache
+C:\Users\automatizacion\Desktop\NumbersMissing\NumbersMissing\NumbersMissing\obj\Debug\NumbersMissing.Resources.resources
+C:\Users\automatizacion\Desktop\NumbersMissing\NumbersMissing\NumbersMissing\obj\Debug\NumbersMissing.vbproj.GenerateResource.Cache
+C:\Users\automatizacion\Desktop\NumbersMissing\NumbersMissing\NumbersMissing\obj\Debug\NumbersMissing.vbproj.CoreCompileInputs.cache
+C:\Users\automatizacion\Desktop\NumbersMissing\NumbersMissing\NumbersMissing\obj\Debug\NumbersMissing.exe
+C:\Users\automatizacion\Desktop\NumbersMissing\NumbersMissing\NumbersMissing\obj\Debug\NumbersMissing.xml
+C:\Users\automatizacion\Desktop\NumbersMissing\NumbersMissing\NumbersMissing\obj\Debug\NumbersMissing.pdb
